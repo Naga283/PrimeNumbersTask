@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "98789804941",
+    "project_id": "xeplotask1",
+    "storage_bucket": "xeplotask1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98789804941:android:b49b973d5d23b35009cbc4",
+        "android_client_info": {
+          "package_name": "com.example.primenumbertask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98789804941-8953egpkb8ifv6hqm03aaotcr63867r6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBI8bTUU99kvmJ5vlfT1U8pUbsE0-Pqd-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98789804941-8953egpkb8ifv6hqm03aaotcr63867r6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
